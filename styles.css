@@ -1,7 +1,16 @@
 /*  your css code here. If applicable */
 #table-1{
 			text-align:center;
+			border: 1px solid black;
 		}
+#table-1>tr>td{
+	padding:20px;
+}
+td{
+	border:1px solid black;
+}
+
+
 #t11{
 	text-align:left;
 }
